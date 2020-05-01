@@ -1,0 +1,10 @@
+import Small_Java.io;
+
+public class_SJ NomDeClasse
+{
+ int_SJ a;
+ main_SJ
+ {
+ a:=a+5;
+ }
+}

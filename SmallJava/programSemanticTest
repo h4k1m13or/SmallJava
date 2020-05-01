@@ -1,0 +1,25 @@
+import Small_Java.io;
+
+import Small_Java.lang;
+
+
+public class_SJ test
+{
+    int_SJ a;
+    float_SJ b;
+    int_SJ c;
+    main_SJ
+    {
+         a:=a+5;
+         a:=3-4;
+         a:=a*b;
+         Si(a<b) Alors
+         {
+                 a:=a+b;
+         }Sinon
+         {
+                 a:=a-b;
+         };
+
+    }
+}
